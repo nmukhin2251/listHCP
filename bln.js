@@ -26,7 +26,7 @@ define(['text!bln.html'], function( htmlString) {
 	bln.prototype.schema = {
 		"Params": {
 		},
-		"Permalink": "http://spaforms365.com/docs/designer-model/"
+		"Permalink": "https://spaforms365.com/docs/designer-model/"
 	};
 	 
     // Return component definition
