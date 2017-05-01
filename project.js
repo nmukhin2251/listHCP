@@ -1,7 +1,7 @@
 define([], function( ) { return  JSON.stringify(
 {
-	"localVersion": 1493612169250,
-	"serverVersion": 1493612169250,
+	"localVersion": 1493614629190,
+	"serverVersion": 1493614629190,
 	"components": [
 		{
 			"Title": "viewmodel",
